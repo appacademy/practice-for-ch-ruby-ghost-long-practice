@@ -1,0 +1,1 @@
+# practice-for-ch-ruby-ghost-long-practice
